@@ -2,9 +2,9 @@
 
 > A Vue.js project
 
-    The project is a single page application that include Open Weather Map API, Google Maps and To Do List.
+    The project is a single page application that includes Open Weather Map API, Google Maps and To Do List.
 
-    Vue project include npm installations: vue-cli, Sass, Bootstrap, Axios, Google Maps.
+    Vue project includes npm installations: vue-cli, Sass, Bootstrap, Axios, Google Maps.
 
     In the main.js file Google Maps Key must be written. 
 
