@@ -1,15 +1,21 @@
-# Vue-Application
+# todoproject
 
-Single Page Application includes Open Weather API, Google Map, To Do List
+> A Vue.js project
 
-In the Vue application, vue-cli, Sass, Axios, Google Maps, Bootstrap npm installed.
+## Build Setup
 
-In main.js file, Google Maps Key should be written.
+``` bash
+# install dependencies
+npm install
 
-In Weather.vue file, Open Weather Map Key should be written inside the axios.get line. 
+# serve with hot reload at localhost:8080
+npm run dev
 
+# build for production with minification
+npm run build
 
+# build for production and view the bundle analyzer report
+npm run build --report
+```
 
-
-
-
+For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
