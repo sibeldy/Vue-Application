@@ -2,6 +2,14 @@
 
 > A Vue.js project
 
+    The project is a single page application that include Open Weather Map API, Google Maps and To Do List.
+
+    Vue project include npm installations: vue-cli, Sass, Bootstrap, Axios, Google Maps.
+
+    In the main.js file Google Maps Key must be written. 
+
+    In the Weather.vue file Open Weather Map key must be written inside the aixos.get line. 
+
 ## Build Setup
 
 ``` bash
@@ -19,3 +27,5 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
